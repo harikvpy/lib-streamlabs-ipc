@@ -1,2 +1,24 @@
-# Building
-/build
+CMakeLists.txt.user
+CMakeCache.txt
+CMakeFiles
+CMakeScripts
+build
+temp
+cmake
+iojs
+Makefile
+lib-streamlabs-ipc.dir
+Debug
+x64
+.vs
+cmake_install.cmake
+install_manifest.txt
+compile_commands.json
+CTestTestfile.cmake
+_deps
+*.cmake
+*.node
+*.log
+*.sln
+*.vcxproj
+*.vcxproj.filters
